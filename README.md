@@ -1,4 +1,4 @@
-Vero7979![logo](/example/public/sats-connect.svg)
+[logo](/example/public/sats-connect.svg)
 
 **[API Docs](https://docs.xverse.app/sats-connect) • [Example App](https://sats-connect.netlify.app/) • [Discord](https://discord.gg/tN84HhSDrz) • [Xverse](https://www.xverse.app/)**
 
